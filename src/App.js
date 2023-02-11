@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Aula Github Actions exemplo
+          Mudançan na minha branch própria
         </p>
         <a
           className="App-link"
