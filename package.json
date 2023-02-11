@@ -2,7 +2,7 @@
   "name": "atividade-7",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dex64ter.github.io/exemplo_CI_actions/",
+  "homepage": "https://dex64ter.github.io/exemplo_CI_actions/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
